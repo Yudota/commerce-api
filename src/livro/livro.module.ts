@@ -6,4 +6,4 @@ import { LivroRepository } from './livro.repository';
   controllers: [LivroController],
   providers: [LivroRepository],
 })
-export class LivrooModule {}
+export class LivroModule {}
